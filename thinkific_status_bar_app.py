@@ -2,6 +2,7 @@ import rumps
 import requests
 import json
 
+# Updated 22 april 1530
 # Replace with your Thinkific API key and subdomain
 API_KEY = "97303e320f2b1fd16ecccd7ddf1b2c24"
 SUBDOMAIN = "stayathomechoir"
